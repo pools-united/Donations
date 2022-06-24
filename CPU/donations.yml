@@ -379,7 +379,7 @@
   custom:
     donationType: community 
 
-    - ticker: CPU
+- ticker: CPU
   recipient:
     name: Dazzle Africa
     address: 11700 West Charleston Blvd 170-66 Las Vegas, NV 89135
